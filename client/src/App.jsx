@@ -1,11 +1,5 @@
 import React from "react";
-import {
-  Navbar,
-  Welcome,
-  Footer,
-  Services,
-  Transactions,
-} from "./components/index";
+import { Navbar, Welcome, Transactions } from "./components/index";
 
 const App = () => {
   return (
@@ -14,9 +8,8 @@ const App = () => {
         <Navbar></Navbar>
         <Welcome></Welcome>
       </div>
-      {/* <Services></Services> */}
+
       <Transactions></Transactions>
-      {/* <Footer></Footer> */}
     </div>
   );
 };
