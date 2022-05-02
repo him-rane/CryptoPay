@@ -43,8 +43,8 @@ To deploy this project run
  <div align="center">   
    <img src="https://www.linkpicture.com/q/ss1_8.png" width="950"></div>
 <div align="center">
-<img src="https://www.linkpicture.com/q/ss3_4.png" width="480">
-<img src="https://www.linkpicture.com/q/ss2_9.png" width="480"></div>
+<img src="https://www.linkpicture.com/q/ss3_4.png" width="950">
+<img src="https://www.linkpicture.com/q/ss2_9.png" width="950"></div>
 
 
 
